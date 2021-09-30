@@ -18,7 +18,7 @@ www.youtube.com^partitionKey=%28http%2Cyoutube.com%29:HSTS	2	18900	1664518459904
 vscode-auth.github.com^partitionKey=%28http%2Cgithub.com%29:HSTS	0	18899	1648487689756,1,1,2
 meet.google.com^partitionKey=%28http%2Cgoogle.com%29:HSTS	0	18899	1664429560804,1,0,2
 baljeetg.github.io^partitionKey=%28http%2Cbaljeetg.github.io%29:HSTS	0	18899	1664497396115,1,0,2
-contile.services.mozilla.com:HSTS	2	18900	1664518206605,1,0,2
+contile.services.mozilla.com:HSTS	2	18900	1664519111627,1,0,2
 github.com^partitionKey=%28http%2Cgithub.com%29:HSTS	1	18900	1664518232651,1,1,2
 alerts.tradingview.com^partitionKey=%28http%2Ctradingview.com%29:HSTS	0	18898	1695888278784,1,1,2
 charts-storage.tradingview.com^partitionKey=%28http%2Ctradingview.com%29:HSTS	0	18898	1695901000553,1,1,2
@@ -34,7 +34,7 @@ oauth2.slack.com^partitionKey=%28http%2Cslack.com%29:HSTS	0	18898	1664350979979,
 shavar.services.mozilla.com^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:HSTS	2	18900	1664517932307,1,1,2
 scone-pa.clients6.google.com^partitionKey=%28http%2Cgoogle.com%29:HSTS	0	18899	1643778974048,1,1,2
 apis.google.com^partitionKey=%28http%2Cgoogle.com%29:HSTS	1	18899	1664428573632,1,0,2
-launchpad.altcampus.school^partitionKey=%28http%2Caltcampus.school%29:HSTS	2	18900	1696055088524,1,1,2
+launchpad.altcampus.school^partitionKey=%28http%2Caltcampus.school%29:HSTS	2	18900	1696055394005,1,1,2
 hotlist.tradingview.com^partitionKey=%28http%2Ctradingview.com%29:HSTS	0	18898	1695888233266,1,1,2
 www.google.com^firstPartyDomain=google-canonical.search.suggestions.mozilla:HSTS	1	18899	1664474496958,1,0,2
 oshingate.netlify.app^partitionKey=%28http%2Coshingate.netlify.app%29:HSTS	0	18898	1664367247772,1,1,2
